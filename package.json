@@ -13,6 +13,11 @@
     "@prisma/cli": "^2.12.1"
   },
   "dependencies": {
-    "@prisma/client": "^2.12.1"
+    "@prisma/client": "^2.12.1",
+    "bcryptjs": "^2.4.3",
+    "dotenv": "^8.2.0",
+    "express": "^4.17.1",
+    "jsonwebtoken": "^8.5.1",
+    "morgan": "^1.10.0"
   }
 }
